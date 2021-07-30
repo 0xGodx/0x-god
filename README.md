@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm god</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x-god&label=Profile%20views&color=0e75b6&style=flat" alt="0x-god" /> </p>
 
-- 🔭 I’m currently working on [IRIS & Never Safe](https://github.com/IRIS-Team https://github.com/neversafe)
+- 🔭 I’m currently working on [IRIS](https://github.com/IRIS-Team) & [Never Safe](https://github.com/neversafe)
 
 - 👨‍💻 All of my projects are available at [https://github.com/0x-god](https://github.com/0x-god)
 

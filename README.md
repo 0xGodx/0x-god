@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @0x-god
-- 👀 I’m interested in ... Data Breaches
 - 🌱 I’m currently learning ... Python & C++
-- 💞️ I’m looking to collaborate on ... Breaches
 - 📫 How to reach me ... 0xGod#0001
